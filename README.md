@@ -1,9 +1,34 @@
-# React + Vite
+Live : https://task-management-six-pi.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+### 1. Task Management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# task-management-frontend
+- **Create Task:** Add new tasks with titles, descriptions, and due dates.
+- **Update Task:** Modify existing tasks, updating details as needed.
+- **Delete Task:** Remove tasks that are no longer required.
+- **Complete/Incomplete:** Mark tasks as complete or reset them to an incomplete state.
+
+### 2. Reusable Components
+
+- Leverage reusable components to maintain a clean and modular codebase.
+
+### 3. API Integration with Redux Toolkit
+
+- Use Redux Toolkit to manage state and seamlessly integrate with your backend API.
+
+### 4. Form Validation with Yup
+
+- Implement form validation using Yup to ensure data integrity and user input correctness.
+
+### 5. React Routing
+
+- Utilize React Router for efficient navigation within the application.
+
+## Technologies Used
+
+- React
+- React Router
+- Redux Toolkit
+- Yup (for form validation)
+- Other relevant dependencies
