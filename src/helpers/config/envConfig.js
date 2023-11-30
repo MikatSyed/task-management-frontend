@@ -1,4 +1,4 @@
 export const getBaseUrl = () => {
     
-    return  "https://task-manage-backend-mikatsyed.vercel.app/api/v1/"
+    return  "https://task-manage-backend-mikatsyed.vercel.app/api/v1"
 }
